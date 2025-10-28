@@ -17,3 +17,10 @@ Yes, use on own risk, for play in serverv without VAC use `-insecure` argument
 **🤔 Cheat don't work!**
 
 Update offsets
+
+**🤔 How update offsets?**
+
+Use [CS-Dumper](https://github.com/a2x/cs2-dumper) and replace:
++ client_dll.cs
++ offsets.cs
++ buttons.cs
