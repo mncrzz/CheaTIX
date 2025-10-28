@@ -10,8 +10,9 @@ Small cheat writed on C#
 
 # 💬 Q&A:
 **🤔 Is this detectable?**
-Yes, use on own risk, for play with bots use "-insecure" argument
+
+Yes, use on own risk, for play in serverv without VAC use `-insecure` argument
 
 **🤔 Cheat don't work!**
 
-Update offsets :3
+Update offsets
