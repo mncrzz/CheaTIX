@@ -1,4 +1,4 @@
-![Скриншот](https://github.com/mncrzz/CheaTIX/main/logo.jpg)
+![Скриншот]([https://github.com/mncrzz/CheaTIX/main/logo.jpg](https://github.com/mncrzz/CheaTIX/blob/main/logo.jpg))
 # CheaTIX
 Small cheat writed on C#
 # 📋 Features:
