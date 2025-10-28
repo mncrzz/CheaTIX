@@ -1,3 +1,4 @@
+![Скриншот](https://github.com/mncrzz/CheaTIX/main/logo.jpg)
 # CheaTIX
 Small cheat writed on C#
 # 📋 Features:
