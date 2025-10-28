@@ -12,7 +12,7 @@ Small cheat writed on C#
 # 💬 Q&A:
 **🤔 Is this detectable?**
 
-Yes, use on own risk, for play in serverv without VAC use `-insecure` argument
+Yes, use on own risk. For play in servers without VAC use `-insecure` argument
 
 **🤔 Cheat don't work!**
 
