@@ -1,8 +1,10 @@
 ![Скриншот](https://github.com/mncrzz/CheaTIX/blob/6462edce467016973e1206817b1390896f914039/logo.jpg)
 # CheaTIX
 Small cheat writed on C#
+
 [!WARNING]
 Only for educational purposes! Do not use in a real game!
+
 # 📋 Features:
 + ESP
 + FOV
