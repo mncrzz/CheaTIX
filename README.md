@@ -22,9 +22,8 @@ Yes, use on own risk. For play in servers without VAC use `-insecure` argument
 
 Update offsets
 
-**🤔 How update offsets?**
-
-Use [CS-Dumper](https://github.com/a2x/cs2-dumper) and replace:
-+ client_dll.cs
-+ offsets.cs
-+ buttons.cs
+>[!TIP]
+> For update offsets use [CS-Dumper](https://github.com/a2x/cs2-dumper) and replace:
+> + client_dll.cs
+> + offsets.cs
+> + buttons.cs
