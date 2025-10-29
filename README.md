@@ -2,9 +2,8 @@
 # CheaTIX
 Small cheat writed on C#
 
-[!WARNING]
-
-Only for educational purposes! Do not use in a real game!
+> [!WARNING]
+> Only for educational purposes! Do not use in a real game!
 
 # 📋 Features:
 + ESP
